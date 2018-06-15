@@ -30,3 +30,24 @@ li {
 li a{
   display: block;
 }
+section img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+/*img.small {
+  display: inline-block;
+  margin-left: 30%;
+  margin-right: 30%;
+}*/
+
+/*img.big {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+}*/
